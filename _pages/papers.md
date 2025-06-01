@@ -11,5 +11,5 @@ Here you’ll find links to full research-style papers, whitepapers, or technica
 
 ## 📄 Published Papers
 
-- [My First Paper Title](assets/papers/example.pdf)  
+- [My First Paper Title](/assets/papers/example.pdf)  
   *Short description goes here — what the paper is about, when you wrote it, etc.*
