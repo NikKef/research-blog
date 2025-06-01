@@ -3,7 +3,6 @@ layout: archive
 title: "Research Papers"
 permalink: /papers/
 author_profile: true
-nav: true
 ---
 
 Here you’ll find links to full research-style papers, whitepapers, or technical writeups I’ve published.
