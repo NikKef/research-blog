@@ -30,7 +30,7 @@ plugins:
 
 author:
   name   : "Nikolas Kefalonitis"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/avatar.png"
   bio    : ""
   links:
     - label: "Website"
