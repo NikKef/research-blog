@@ -1,7 +1,7 @@
 # Nikolas Kefalonitis — Research Blog
 
 Welcome to my personal research blog and academic portfolio.  
-I'm an 18-year-old aspiring researcher exploring the intersection of **Artificial Intelligence**, **Blockchain**, **Quantitative Finance**, and **Sustainability Tech**.
+I'm an aspiring researcher exploring the intersection of **Artificial Intelligence**, **Blockchain**, **Quantitative Finance**, and **Sustainability Tech**.
 
 This site is built with [Jekyll](https://jekyllrb.com/) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme and hosted freely on [GitHub Pages](https://pages.github.com/).
 
